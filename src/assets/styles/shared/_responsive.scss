@@ -4,9 +4,9 @@ $grid-breakpoints: (
 );
 
 @mixin media($keys...) {
-    @each $key in $keys { 
-      @media (max-width: map-get($grid-breakpoints, $key)){
-        @content
-      } 
+  @each $key in $keys {
+    @media (max-width: map-get($grid-breakpoints, $key)) {
+      @content;
     }
+  }
 }

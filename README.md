@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -70,7 +70,7 @@ npm run lint
 
 ## My process
 
- I started by reviewing the design specification.  I then started markup knowing that the mobile and desktop layouts would use the same cards, with different page layouts.  From there, I stated the styling with mobile-first workflow and then created two media queries to handle the transition from the mobile to the desktop layouts.
+I started by reviewing the design specification. I then started markup knowing that the mobile and desktop layouts would use the same cards, with different page layouts. From there, I stated the styling with mobile-first workflow and then created two media queries to handle the transition from the mobile to the desktop layouts.
 
 ### Built with
 
@@ -93,7 +93,7 @@ I am looking forward to the next project to build on the CSS grid experience and
 ### Useful resources
 
 - [Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell is an excellent teacher and I relied heavily on the notes that I took from his CSS courses taught on scrimba.com.
-- [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/) -  I have found css.tricks.com to be a valuable resourse for grid, flexbox, and all things CSS.
+- [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/) - I have found css.tricks.com to be a valuable resourse for grid, flexbox, and all things CSS.
 
 ## Author
 

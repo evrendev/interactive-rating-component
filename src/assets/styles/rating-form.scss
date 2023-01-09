@@ -1,0 +1,28 @@
+.form {
+    > div:not(:first-child) {
+      margin-top: 1.25rem;
+    }
+  
+    .favorite {
+      width: 3rem;
+      padding: 1rem;
+      border-radius: 100vmax;
+    }
+  
+    button {
+      width: 100%;
+      border: none;
+      border-radius: 100vmax;
+      padding: var(--fs-body) 0;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      line-height: 1;
+      font-size: var(--fs-500);
+      cursor: pointer;
+  
+      &:hover {
+        background-color: var(--clr-neutral-100);
+        color: var(--clr-primary-400);
+      }
+    }
+  }

@@ -1,0 +1,14 @@
+
+.result {
+  > div:not(:first-child) {
+    margin-top: 1.25rem;
+  }
+
+  span {
+    &.choice {
+      padding: 0.5rem 1rem;
+      line-height: 1;
+      border-radius: 100vmax;
+    }
+  }
+}

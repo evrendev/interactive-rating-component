@@ -1,6 +1,10 @@
 <script>
+import RatingComponent from "./components/RatingComponent.vue";
 export default {
   name: "App",
+  components: {
+    RatingComponent,
+  },
   setup() {
     return {};
   },
@@ -8,7 +12,7 @@ export default {
 </script>
 
 <template>
-  <div>App</div>
+  <rating-component />
 </template>
 
 <style lang="scss">

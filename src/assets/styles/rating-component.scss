@@ -1,0 +1,10 @@
+main {
+    border-radius: 2rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+  
+    p {
+      line-height: var(--fs-700);
+    }
+  }
