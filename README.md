@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop image](https://raw.githubusercontent.com/evrendev/testimonals-grid-section/main/screens/desktop-screen.jpg)
-![mobile image](https://raw.githubusercontent.com/evrendev/testimonals-grid-section/main/screens/mobile-screen.jpg)
+![desktop image](https://raw.githubusercontent.com/evrendev/interactive-rating-component/main/screens/desktop-screen.jpg)
+![mobile image](https://raw.githubusercontent.com/evrendev/interactive-rating-component/main/screens/mobile-screen.jpg)
 
 ### Links
 
-- Solution URL: [@github](https://github.com/evrendev/testimonals-grid-section)
-- Live Site URL: [@github pages](https://evrendev.github.io/testimonals-grid-section/)
+- Solution URL: [@github](https://github.com/evrendev/interactive-rating-component)
+- Live Site URL: [@github pages](https://evrendev.github.io/interactive-rating-component/)
 
 ### Setup
 
@@ -79,7 +79,6 @@ I started by reviewing the design specification. I then started markup knowing t
 - Mobile-first workflow
 - SCSS preprocessing
 - CSS custom properties
-- CSS Grid
 - Flexbox
 
 ### What I learned
@@ -93,7 +92,7 @@ I am looking forward to the next project to build on the CSS grid experience and
 ### Useful resources
 
 - [Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell is an excellent teacher and I relied heavily on the notes that I took from his CSS courses taught on scrimba.com.
-- [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/) - I have found css.tricks.com to be a valuable resourse for grid, flexbox, and all things CSS.
+- [A Complete Guide to Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox//) - I have found css.tricks.com to be a valuable resourse for flexbox, and all things CSS.
 
 ## Author
 
