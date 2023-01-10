@@ -129,25 +129,3 @@
 .text-center {
   text-align: center;
 }
-
-@for $i from 1 through 20 {
-  @include media(mobile) {
-    .h-sm-#{$i * 5} {
-      height: #{$i * 5}vh;
-    }
-
-    .w-sm-#{$i * 5} {
-      width: #{$i * 5}vw;
-    }
-  }
-
-  @include media(desktop) {
-    .h-md-#{$i * 5} {
-      height: #{$i * 5}vh;
-    }
-
-    .w-md-#{$i * 5} {
-      width: #{$i * 5}vw;
-    }
-  }
-}

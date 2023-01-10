@@ -2,11 +2,7 @@
 
 input {
     &[type="radio"] {
-      position: absolute;
-      left: -9999px;
-      width: 0;
-      height: 0;
-      visibility: hidden;
+      display: none;
   
       + label {
         width: 3rem;
@@ -16,11 +12,6 @@ input {
         justify-content: center;
         border-radius: 100vmax;
         cursor: pointer;
-  
-        @include media(mobile) {
-          width: 2rem;
-          height: 2rem;
-        }
   
         &:hover {
           background-color: var(--clr-primary-400);

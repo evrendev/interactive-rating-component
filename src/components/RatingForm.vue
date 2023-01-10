@@ -18,6 +18,10 @@ export default {
     const sendForm = () => {
       if (rating.value) {
         ratingStore.updateRating(rating.value);
+
+        setTimeout(() => {
+          ratingStore.$reset();
+        }, 3000);
       } else {
         alert("You should choose a rating before send!");
       }
@@ -40,7 +44,7 @@ export default {
       </div>
     </div>
     <div>
-      <h1 class="fs-800">How did we do?</h1>
+      <h1 class="fw-bold fs-800">How did we do?</h1>
     </div>
     <div>
       <p class="text-neutral-300">

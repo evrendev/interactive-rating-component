@@ -20,7 +20,7 @@ export default {
 </script>
 
 <template>
-  <main role="main" class="bg-neutral-700 w-md-30 w-sm-90">
+  <main role="main" class="bg-neutral-700">
     <rating-form v-if="showForm" class="animate__animated animate__flipInX" />
     <show-result v-else class="animate__animated animate__flipInX" />
   </main>

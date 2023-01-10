@@ -1,8 +1,17 @@
+@import "./shared/responsive";
+
 main {
     border-radius: 2rem;
     padding: 2rem;
     display: flex;
+    width:26.25rem;
+    min-width: 26.25rem;
     flex-direction: column;
+
+    @include media(mobile) {
+      width: 90vw;
+      min-width: unset;
+    }
   
     p {
       line-height: var(--fs-700);
