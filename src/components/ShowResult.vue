@@ -29,7 +29,7 @@ export default {
       </span>
     </div>
     <div class="flex justify-content-center">
-      <h1 class="fs-800">Thank You!</h1>
+      <h1 class="fs-800 fw-bold">Thank You!</h1>
     </div>
     <div class="flex justify-content-center">
       <p class="text-neutral-400 text-center">
